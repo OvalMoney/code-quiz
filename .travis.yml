@@ -1,0 +1,4 @@
+language: c
+script:
+  - diff oval-quiz-sm.out oval-quiz-sm.exp
+  - diff oval-quiz-lg.out oval-quiz-lg.exp
