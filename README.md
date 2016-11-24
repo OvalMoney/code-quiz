@@ -13,8 +13,8 @@ their invitation numbers.
 The first line of input gives the number of cases, `N`.
 `N` test cases follow. For each test case there will be:
 
-One line containing the value `G` the number of guests.
-One line containing a space-separated list of `G` integers. Each integer `C`
+* One line containing the value `G` the number of guests.
+* One line containing a space-separated list of `G` integers. Each integer `C`
 indicates the invitation code of a guest.
 
 ### Output
