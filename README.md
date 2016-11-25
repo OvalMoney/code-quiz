@@ -55,7 +55,9 @@ Case #3: 5
 
 ## How to participate
 
-Fork this project and submit a pull request with your code and your output.
+Fork this project. Solve the problem using your favourite language, 
+using `oval-quiz-sm.in` and `oval-quiz-lg.in` as input. Submit a pull request
+with your code and your output.
 We expect the output files in the top-level directory, with these file names:
 
 `oval-quiz-sm.out`
